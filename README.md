@@ -1,6 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on front-end/mobile 📱
  <div>
   <a href="https://github.com/itsmeluige">
    <div style="display: flex;">
