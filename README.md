@@ -17,7 +17,10 @@
   ##
  
 <div> 
+  <div style="display: flex; flex-direction: row;">
   <a href="https://www.linkedin.com/in/luiz-gustavo-orso-7202a171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://soundcloud.com/luiz_orso" target="_blank"><img height="30em" src="https://d21pahz0q2d74.cloudfront.net/wp-content/uploads/2020/08/soundcloud-logo-png-5.png" target="_blank"></a> 
+ </div>
  
   ![Snake animation](https://github.com/itsmeluige/itsmeluige/blob/output/github-contribution-grid-snake.svg)
  
